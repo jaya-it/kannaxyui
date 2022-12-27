@@ -65,10 +65,10 @@ https://github.com/ImYanXiao
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/Xiao_yan_21",
+    mediaUrl: sig,
     mediaType: "VIDEO",
-    description: "https://Instagram.com/Xiao_yan_21", 
-    title: 'Kanna-MultiDevice',
+    description: sig, 
+    title: 'ClevvBotz-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
