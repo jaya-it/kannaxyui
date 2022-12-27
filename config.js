@@ -45,33 +45,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
+global.sig = 'https://instagram.com/jayasantika_26'
+global.sgh = 'https://Nurutomo26.github.io/index.php'
 global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.snh = 'https://youtube.com/c//'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
+global.pdana = '089524664142'
+global.povo = '089524664142'
+global.pgopay = '089524664142'
+global.ppulsa = '082339922441'
+global.ppulsa2 = '089524664142'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842'
-global.nomorown = '6285608625102'
-global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nomorbot = '6282339922441'
+global.nomorown = '6289524664142'
+global.namebot = 'ClevvBotz-Md'
+global.nameown = 'Mr.Clevv'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true] //Ganti jd nomormu sama Namamu
+  ['6289524664142', 'Mr.Clevv', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -100,9 +97,9 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'ebb6251cc00f9c63',
+  'https://api.xteam.xyz': '',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',
+  'https://api.lolhuman.xyz': 'd30bb60793adf3df619d0f44',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -116,18 +113,18 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Yui - Chan 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Yui - Chan '
+global.wm = '                「 ClevvBotz-Md 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ClevvBotz-Md ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ClevvBotz-Md '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By LeonGanz`
-global.author = '                「 Yui - Chan  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Mr.Clevv`
+global.author = '                「 ClevvBotz-Md  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/nsTYRF6/Chitanda.jpg' //Main Thumbnail
-global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
+global.thumb = 'https://telegra.ph/file/099d6425a0cdc61a9de96.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/ac9c802c12c84e6bda2d3.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -160,7 +157,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/099d6425a0cdc61a9de96.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -190,8 +187,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Yui - Chan'
-global.stickauth = `By ©LeonGanz`
+global.stickpack = 'ClevvBotz-Md'
+global.stickauth = `By ©Mr.Clevv`
 
 global.multiplier = 38 // The higher, The harder levelup
 
